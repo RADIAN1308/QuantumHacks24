@@ -9,7 +9,7 @@ Come up with the Machine Learning model, which can plan your Wardrobe based on t
 Different parameters which can contribute to the cloth's ageing must be considered.
 <br> 
  Solution : 
- The solution that we have come up with is an app called "WashMash" it is used to create a live tracking database of the number of days until which you clothes have to go for a wash again 
+ The solution that we have come up with is an app called "WashMash" it is used to create a live tracking database of the number of days until which your clothes have to go for a wash again 
  this is possible by setting a set number of days for each type of clothing such as t-shirts,shirts, and jeans the basic essentials which everyone has . 
  After logging into the app you will be redirected to a page for adding the details of the clothes which you want to add to your virtual wardrobe aswell as the number of days ago it has been washed. This is
  essential to know when to place the same set of clothes after a specific numer of uses. In the future of our app we are looking forward to the usage of rfid stickers which are attached in the clothing along 
